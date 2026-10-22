@@ -26,8 +26,8 @@ body {
 
     position: absolute;
 
-    left: 40px;
-    bottom: 400px;
+    left: 450px;
+    bottom: 35px;
 
     width: 350px;
 
@@ -39,7 +39,7 @@ body {
 
     display: block;
 
-    width: 40%;
+    width: 45%;
     height: auto;
 
 }
